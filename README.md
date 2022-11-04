@@ -1,2 +1,2 @@
 # E-Commerce-Appication
-A text based e-commerce application built in Java
+A terminal based e-commerce application built in Java
